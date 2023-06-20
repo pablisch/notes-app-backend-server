@@ -1,0 +1,13 @@
+# Notes App backend server
+
+## Description
+
+This is a simple non-persistent Express.js backend server for a notes app. 
+Its only purpose is to serve the frontend app which was a small challenge on the Makers Academy course.
+The notes.app.js repository can be found [here](https://github.com/pablisch/notes.app.js).
+
+## Installation
+
+1. Clone the repository
+2. Install dependencies with `npm install`
+3. Start the server with `npm start`
